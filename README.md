@@ -1,3 +1,3 @@
-# Machine learning on Titanic dataset with multilayer perceptron
+# Deep Neural Networks applied to Titanic dataset using TensorFlow's Datasets and Estimators
 
-Aim of this repo is to implement TensorFlow's resent features of Datasets and Estimators on Kaggle's Titanic dataset.
+Aim of this work is to implement DNNs for Kaggle's Titanic dataset using TensorFlow's recent Datasets and Estimators.
