@@ -1,4 +1,5 @@
 Age,Cabin,Embarked,Fare,Name,Parch,PassengerId,Pclass,Sex,SibSp,Survived,Ticket
+34.5,,2,7.8292,"Kelly, Mr. James",0,892,3,1,0,0,330911
 47.0,,3,7.0,"Wilkes, Mrs. James (Ellen Needs)",0,893,3,0,1,0,363272
 62.0,,2,9.6875,"Myles, Mr. Thomas Francis",0,894,2,1,0,0,240276
 27.0,,3,8.6625,"Wirz, Mr. Albert",0,895,3,1,0,0,315154
